@@ -16,10 +16,12 @@
 <samp>
 <h3 align="center">About my profile</h3>
  <p align="center">
-    I'm a software developer. My experience spans from website development to web and desktop applications. I can work on the frontend and backend with different technologies, some of the most notable are HTML5, CSS3, JavaScript, Sass, .NET and #C. Creation of Rest and Restful APIs with ASP.NETCore, administration and creation of relational databases with SQL and engines such as Microsoft SQL Server, MySQL, PostgreSQL.
-   
-<a align="center" href="https://augustogutierrez.netlify.app/" target="_blank">Visit my web portfolio to see my work in a more organized and intuitive way.</a>
+I'm a software developer. My experience spans from website development to web and desktop applications. I can work on the frontend and backend with different technologies, some of the most notable are HTML5, CSS3, JavaScript, Sass, .NET and #C. Creation of Rest and Restful APIs with ASP.NETCore, administration and creation of relational databases with SQL and engines such as Microsoft SQL Server, MySQL, PostgreSQL.    
  </p>
+  <div align="center">
+     <a href="https://augustogutierrez.netlify.app/" target="_blank">Visit my web portfolio to see my work in a more     
+      organized and intuitive way.</a>
+   </div>
  </samp>
 </div>
 </div>

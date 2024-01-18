@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hello! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Augusto Gutierrez</h1>
-<h4 align="center"> a software developer that can work on frontend and backend projects.<a href="https://drive.google.com/file/d/1p1GjvjBWN4gMwf0JsPGP34v3m16n4N93/view?usp=sharing" target="_blank">Curriculum</a> for more.</h4>
+<h4 align="center"> a software developer that can work on frontend and backend projects.<a href="https://drive.google.com/file/d/1p1GjvjBWN4gMwf0JsPGP34v3m16n4N93/view?usp=sharing" target="_blank"> Curriculum</a> for more.</h4>
 </div>
 
 <div align="center">
@@ -16,8 +16,9 @@
 <samp>
 <h3 align="center">About my profile</h3>
  <p align="center">
-    I'm a software developer. My experience spans from website development to web and desktop applications. I can work on the frontend and backend with different technologies, some of the most notable are HTML5, CSS3, JavaScript, Sass, .NET and #C. Creation of Rest and Restful APIs with ASP.NETCore, administration and creation of relational databases with SQL and engines such as Microsoft SQL Server, MySQL, PostgreSQL. 
-    <a href="https://augustogutierrez.netlify.app/" target="_blank">Visit my web portfolio to see my work in a more organized and intuitive way.</a>
+    I'm a software developer. My experience spans from website development to web and desktop applications. I can work on the frontend and backend with different technologies, some of the most notable are HTML5, CSS3, JavaScript, Sass, .NET and #C. Creation of Rest and Restful APIs with ASP.NETCore, administration and creation of relational databases with SQL and engines such as Microsoft SQL Server, MySQL, PostgreSQL.
+   
+<a href="https://augustogutierrez.netlify.app/" target="_blank">Visit my web portfolio to see my work in a more organized and intuitive way.</a>
  </p>
  </samp>
 </div>
